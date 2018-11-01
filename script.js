@@ -24,6 +24,8 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 })
     // use the .addTo method to add the tile layer to the map.
     .addTo(map);
+// FIXME: Load a different tile layer (basemap)
+// http://leaflet-extras.github.io/leaflet-providers/preview/
 
 // FIXME: Load CSV data into leaflet markers
 
