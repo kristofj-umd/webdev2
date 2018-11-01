@@ -5,6 +5,8 @@
 // This the Javascript file we'll use to make our leaflet map
 // Based on Maptime Boston leaflet tutorial:
 // https://maptimeboston.github.io/leaflet-intro/
+// Author: Kris Johnson
+// Date: 23 Oct 2018
 //
 ///////////////////////////////////////////////////////////////////////////////
 
