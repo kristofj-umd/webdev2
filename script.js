@@ -28,6 +28,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 // http://leaflet-extras.github.io/leaflet-providers/preview/
 
 // FIXME: Load CSV data into leaflet markers
+omnivore.csv('airports.csv').addTo(map);
 
 // FIXME: Add styling to markers
 // Use airport.png
